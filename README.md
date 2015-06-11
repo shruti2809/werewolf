@@ -1,7 +1,7 @@
 # werewolf
 A simulation of the were wolf game
 
-Usage
+##Usage
 Show one game play
 ```
 Game.new(<num_of_wolfs>, <num_of_villagers>).play
